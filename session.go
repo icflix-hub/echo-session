@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	DefaultKey  = "session_key"
+	DefaultKey  = "github.com/ipfans/echo-session"
 	errorFormat = "[sessions] ERROR! %s\n"
 )
 
